@@ -1,11 +1,11 @@
-#Tweets every #dunk that happens in the NBA
+Tweets every #dunk that happens in the NBA
 
-##Follow @HashtagDunk on Twitter
+Follow @HashtagDunk on Twitter
 
 Currently, just a python script that will tweet all the dunks that happen in a given game
 
 Usage:
 
-    python tweet_dunks.py gameID1 gameID2 ...
+python tweet_dunks.py gameID1 gameID2 ...
 
 Use ESPN.com game IDs
